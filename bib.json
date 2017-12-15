@@ -1,0 +1,18 @@
+{
+  "collection": "My First Research Project\n",
+  "created": "2017-12-15T01:12:18Z",
+  "description": "Project bibliography.",
+  "from": 0,
+  "id": "4b3ccce4-4e0a-43c5-4d56-325762d03496",
+  "label": "",
+  "modified": "2017-12-15T12:13:29+11:00",
+  "owner": "dmarques",
+  "records": [],
+  "resources": {
+    "arxiv/abs/1708.05029v2": "http://arxiv.org/pdf/1708.05029v2.pdf",
+    "arxiv/abs/1710.04515v1": "http://arxiv.org/pdf/1710.04515v1.pdf",
+    "arxiv/abs/1711.00165v1": "http://arxiv.org/pdf/1711.00165v1.pdf"
+  },
+  "size": 0,
+  "source": ""
+}
